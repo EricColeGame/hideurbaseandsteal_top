@@ -27,11 +27,10 @@ export const siteConfig: SiteConfig = {
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://hideurbaseandsteal.top",
   supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://hideurbaseandsteal.top").hostname.replace(/^www\./, "")}`,
   gameUrl: "https://www.roblox.com/games/80844740579381/Hide-ur-Base-and-Steal",
-  heroVideoId: "Xld4JVVKQUw", // Roblox Hide ur Base and Steal gameplay video
+  heroVideoId: "KuhUUS_1Bv8", // Roblox Hide ur Base and Steal gameplay video
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/watch?v=KuhUUS_1Bv8",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "ja", "pt"],
   defaultLocale: "en",
 };
