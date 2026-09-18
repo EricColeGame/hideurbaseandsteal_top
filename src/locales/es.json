@@ -1,315 +1,247 @@
 {
   "site": {
-    "name": "Wiki de My Seafood Stand",
-    "shortName": "My Seafood Stand",
-    "tagline": "Guías completas, códigos, recetas y tier lists",
-    "description": "¡Tu guía definitiva de My Seafood Stand en Roblox! Descubre códigos activos, recetas de mariscos, mejores mejoras, estrategias de ganancias y guías de progresión.",
-    "legalNotice": "Wiki no oficial creada por fans. Hecha por jugadores, para jugadores."
+    "name": "Hide ur Base and Steal Wiki",
+    "shortName": "Hide ur Base and Steal",
+    "tagline": "Oculta tu base, reúne mascotas para ganar dinero y explora bases rivales en Hide ur Base and Steal de Roblox.",
+    "description": "Oculta tu base, reúne mascotas para ganar dinero y explora bases rivales en Hide ur Base and Steal de Roblox.",
+    "legalNotice": "Hide ur Base and Steal Wiki es un recurso comunitario creado por fans y no está afiliado con Sutik x Tommy ni con Roblox Corporation."
   },
   "nav": {
-    "races": "Razas",
-    "bosses": "Jefes",
-    "guides": "Guías",
-    "codes": "Códigos",
-    "tierList": "Tier List",
-    "maps": "Mapas",
-    "skills": "Habilidades",
-    "updates": "Actualizaciones",
     "home": "Inicio",
     "menu": "Menú",
     "toggleTheme": "Cambiar tema",
-    "guide": "Guías",
-    "seafood": "Mariscos y recetas",
-    "upgrades": "Mejoras",
-    "gamepasses": "Pases de juego",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "maps": "Mapas",
+    "items": "Objetos",
+    "controls": "Controles",
     "community": "Comunidad"
   },
   "home": {
     "meta": {
-      "title": "Wiki de My Seafood Stand — Códigos, recetas, mejoras y guías",
-      "description": "Guía completa de My Seafood Stand en Roblox con códigos activos funcionales, todos los pescados y recetas, tier list de mejores mejoras y consejos de dinero rápido."
+      "title": "Hide ur Base and Steal Wiki",
+      "description": "Oculta tu base, reúne mascotas para ganar dinero y explora bases rivales en Hide ur Base and Steal de Roblox."
     },
     "hero": {
-      "eyebrow": "Wiki comunitaria creada por fans",
-      "title": "My Seafood Stand",
-      "description": "Domina tu restaurante en My Seafood Stand en Roblox. Accede a todos los códigos activos, el catálogo completo de pescados y recetas, mejoras óptimas y estrategias profesionales para ganar dinero.",
+      "eyebrow": "Wiki de la comunidad",
+      "title": "Hide ur Base and Steal Wiki",
+      "description": "Oculta tu base, reúne mascotas para ganar dinero y explora bases rivales en Hide ur Base and Steal de Roblox.",
       "stats": [
-        "Todos los códigos",
-        "Todos los pescados y recetas",
-        "Guías de mejoras",
-        "Consejos para ganar dinero rápido"
+        "Sutik x Tommy",
+        "Roblox",
+        "Ocultar, reunir, robar",
+        "6 jugadores"
       ],
-      "primaryCta": "Guía para principiantes",
-      "secondaryCta": "Tier List de mariscos",
-      "tertiaryCta": "Códigos activos",
-      "videoLabel": "Multimedia oficial"
+      "primaryCta": "Ver guías",
+      "secondaryCta": "Jugar en Roblox",
+      "tertiaryCta": "Códigos",
+      "videoLabel": "Demostración de juego"
     },
     "updates": {
-      "title": "Últimas actualizaciones",
-      "browse": "Explorar todas las guías",
-      "viewAll": "Ver todo"
+      "title": "Guías recientes",
+      "browse": "Ver guías",
+      "viewAll": "Ver guías"
     },
     "start": {
-      "eyebrow": "Empieza aquí",
-      "title": "Tu viaje en My Seafood Stand",
+      "eyebrow": "Primeros pasos",
+      "title": "Tu aventura en Hide ur Base and Steal",
       "cards": [
         {
           "number": "1",
           "title": "Guía para principiantes",
-          "description": "Domina el Mundo Espiritual desde el primer día con nuestra guía completa para principiantes que cubre controles, combate y progresión inicial."
+          "description": "Aprende los controles y prepara tu primera base."
         },
         {
           "number": "2",
-          "title": "Subir de nivel más rápido",
-          "description": "Domina el inicio del juego y maximiza tu progresión con las rutas y estrategias de subida de nivel más eficientes."
+          "title": "Oculta tu base",
+          "description": "Elige un escondite y evita revelar tu entrada."
         },
         {
           "number": "3",
-          "title": "Mejores zonas de farmeo",
-          "description": "Maximiza tus ganancias de Esencia de Alma y EXP con las ubicaciones de farmeo óptimas para cada etapa."
+          "title": "Colecciona mascotas",
+          "description": "Compra mascotas y recoge el dinero que generan."
         },
         {
           "number": "4",
-          "title": "Cómo extraer",
-          "description": "Aprende los mejores métodos y ubicaciones para extraer recursos en My Seafood Stand."
+          "title": "Planifica tu ruta",
+          "description": "Explora otras bases y prepara un regreso seguro."
         }
       ]
     },
     "popular": {
       "eyebrow": "Páginas populares",
-      "title": "Tendencias actuales",
+      "title": "Explora la wiki",
       "quickLinks": [
-        "Progresión Hollow",
-        "Subir de nivel más rápido",
-        "Amuletos espirituales",
-        "Todas las guías de jefes"
+        "Guía para principiantes",
+        "Oculta tu base",
+        "Colecciona mascotas",
+        "Planifica tu ruta"
       ],
-      "cards": [
-        {
-          "badge": "Principiante",
-          "title": "Guía para principiantes",
-          "description": "Todo lo que necesitas desde tu primer inicio de sesión hasta dominar los conceptos básicos del combate y la progresión.",
-          "href": "/beginner-guide"
-        },
-        {
-          "badge": "Actualizado",
-          "title": "Códigos activos",
-          "description": "Todos los códigos funcionales con recompensas: canjéalos antes de que caduquen.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Actualizado",
-          "title": "Base de datos de equipo",
-          "description": "94 objetos repartidos en 5 ranuras: base de datos completa de equipo con estadísticas, rareza y fuentes de obtención.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "¿Qué raza deberías elegir?",
-          "description": "Shinigami, Quincy o Hollow: compara las tres y encuentra tu estilo de juego perfecto.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "Nuevo",
-          "title": "Enemigos y monstruos",
-          "description": "23 tipos de enemigos en 5 regiones: botines, ubicaciones y consejos de farmeo.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Ubicaciones y botines de jefes",
-          "description": "Todas las ubicaciones de jefes, tablas de botín y tiempos de reaparición en una sola referencia.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Mejores builds",
-          "description": "Distribución óptima de estadísticas, elecciones del árbol de habilidades y combinaciones de amuletos para cada estilo de juego.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "Nuevo",
-          "title": "Tier List de Shikai",
-          "description": "Los 6 tipos de Shikai de Shinigami clasificados por rendimiento en PvP y PvE.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "Nuevo",
-          "title": "Guía de eventos del mundo",
-          "description": "Alijos de suministros, incursiones y eventos mundiales del juego final con recompensas raras.",
-          "href": "/world-events"
-        }
-      ]
+      "cards": []
     },
     "aboutGame": {
-      "title": "¿Qué es My Seafood Stand?",
+      "title": "¿Qué es Hide ur Base and Steal?",
       "paragraphs": [
-        "My Seafood Stand es un RPG de combate estilizado en Roblox inspirado en el universo del anime Bleach. Elige entre tres razas jugables: Shinigami, Quincy o Hollow, cada una con sistemas de progresión únicos, habilidades desbloqueables y rutas de evolución. Domina más de 130 habilidades mientras luchas para alcanzar el nivel máximo de 100.",
-        "Ya sea que estés desbloqueando tu primer Shikai, evolucionando de un Hollow básico a un Arrancar o completando misiones de Teniente Quincy, nuestra wiki cubre cada sistema con guías detalladas, tablas de datos y tutoriales paso a paso."
+        "Hide ur Base and Steal es un juego de Roblox creado por Sutik x Tommy. Los jugadores ocultan su base, compran mascotas y recogen dinero.",
+        "Explora el mapa, busca otras bases e intenta robar mascotas mientras proteges tu colección."
       ],
       "stats": [
         {
           "label": "Desarrollador",
-          "value": "Midnight Continent"
+          "value": "Sutik x Tommy"
         },
         {
           "label": "Plataforma",
           "value": "Roblox"
         },
         {
-          "label": "Género",
-          "value": "RPG de combate"
+          "label": "Objetivo",
+          "value": "Ocultar, reunir, robar"
         },
         {
-          "label": "Visitas",
-          "value": "12.6M+"
-        },
-        {
-          "label": "Favoritos",
-          "value": "243K+"
-        },
-        {
-          "label": "Habilidades totales",
-          "value": "130+"
-        },
-        {
-          "label": "Nivel máximo",
-          "value": "100"
+          "label": "Servidor",
+          "value": "6 jugadores"
         }
       ],
-      "cta": "Explorar todas las guías"
+      "cta": "Ver guías"
     },
     "explore": {
-      "title": "Explora la Wiki de My Seafood Stand",
-      "description": "Domina tu restaurante de mariscos en Roblox con guías esenciales de progresión, códigos activos, catálogos completos de pescados y recetas, y estrategias óptimas de mejora.",
+      "title": "Explora Hide ur Base and Steal",
+      "description": "Guías para empezar, ocultar tu base, reunir mascotas y explorar el mapa.",
       "modules": [
         {
           "order": 1,
-          "name": "Códigos activos de My Seafood Stand",
-          "description": "Canjea los últimos códigos funcionales para reclamar monedas gratis, gemas, cosméticos exclusivos y potenciadores antes de que caduquen.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Hide ur Base and Steal Códigos",
+          "description": "Consulta los anuncios de recompensas en la página del juego.",
+          "href": "/community",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Código",
-              "detail": "FULLRELEASE — Dinero y recompensas gratis"
+              "label": "COMING-SOON",
+              "detail": "Actualmente no hay códigos activos"
             },
             {
-              "label": "Código",
-              "detail": "75KLIKES — Reroll de habilidad exclusivo"
-            },
-            {
-              "label": "Consejo",
-              "detail": "Los códigos distinguen entre mayúsculas y minúsculas; ingrésalos en el menú de Ajustes"
+              "label": "STAY-TUNED",
+              "detail": "Vuelve para consultar nuevos anuncios"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Guía para principiantes: Cómo empezar y servir a los clientes",
-          "description": "Guía paso a paso para principiantes que cubre pedidos de clientes, preparación de alimentos, gestión de estaciones y mecánicas de cobro en caja.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Hide ur Base and Steal Guía inicial",
+          "description": "Aprende los primeros pasos para crear tu colección.",
+          "href": "/guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Paso 1",
-              "detail": "Toma el pedido del cliente en el frente del puesto"
+              "label": "1",
+              "detail": "Aprende los controles"
             },
             {
-              "label": "Paso 2",
-              "detail": "Cocina el marisco en la parrilla o en la estación de hervido"
-            },
-            {
-              "label": "Paso 3",
-              "detail": "Sirve la comida caliente con rapidez para obtener el máximo de propinas"
+              "label": "2",
+              "detail": "Prepara tu primera base"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Tier List de mariscos y pescados",
-          "description": "Desglose completo de todos los pescados y mariscos capturables clasificados por valor de mercado, demanda de los clientes y márgenes de beneficio.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Hide ur Base and Steal Bases",
+          "description": "Busca un escondite y protege tu base.",
+          "href": "/maps",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Tier S",
-              "detail": "Cangrejo real · Hervido de langosta — Mayor beneficio por cliente"
+              "label": "1",
+              "detail": "Elige un escondite"
             },
             {
-              "label": "Tier A",
-              "detail": "Salmón · Camarón gigante · Filete de atún — Ganancias rápidas y fiables"
-            },
-            {
-              "label": "Tier B",
-              "detail": "Almejas · Ostras · Calamar — Gran margen a mitad de juego"
-            },
-            {
-              "label": "Tier C",
-              "detail": "Sardinas comunes · Cangrejo pequeño — Mariscos iniciales"
+              "label": "2",
+              "detail": "Protege tus mascotas"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Progresión de mejores mejoras",
-          "description": "Orden óptimo para gastar tu dinero: expande estaciones de cocina, contrata personal de servicio, acelera las parrillas y mejora los asientos.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Hide ur Base and Steal Robos",
+          "description": "Explora otras bases y planifica el regreso.",
+          "href": "/mechanics",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Prioridad 1",
-              "detail": "Velocidad de cocción y quemadores extra — Despeja la acumulación de clientes"
+              "label": "1",
+              "detail": "Explora el mapa"
             },
             {
-              "label": "Prioridad 2",
-              "detail": "Capacidad de asientos para clientes — Aumenta los comensales simultáneos"
-            },
-            {
-              "label": "Prioridad 3",
-              "detail": "Chef automático / Camareros — Ingresos pasivos automáticos"
+              "label": "2",
+              "detail": "Planifica un regreso seguro"
             }
           ]
         },
         {
           "order": 5,
-          "name": "Cómo conseguir dinero rápido",
-          "description": "Mejores estrategias para ganar dinero, evaluación de clientes VIP, maximización de propinas y consejos de servicio de alta eficiencia.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Hide ur Base and Steal Objetos",
+          "description": "Conoce las mascotas y el dinero que generan.",
+          "href": "/items",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Encadena pedidos rápidamente para acumular el multiplicador de Felicidad del Cliente"
+              "label": "1",
+              "detail": "Colecciona mascotas"
             },
             {
-              "label": "Alto margen",
-              "detail": "Céntrate en hervidos de mariscos de alto nivel durante las horas punta de clientes"
-            },
-            {
-              "label": "Reinversión",
-              "detail": "Mantén una reserva del 20% de efectivo para reponer ingredientes frescos"
+              "label": "2",
+              "detail": "Recoge sus ingresos"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Expansión de parcelas y personalización del puesto",
-          "description": "Desbloquea parcelas de terreno más grandes, organiza distribuciones de cocina óptimas y añade mejoras decorativas de alto valor.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Hide ur Base and Steal Consejos",
+          "description": "Revisa consejos para explorar y proteger tus mascotas.",
+          "href": "/guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Parcela 1",
-              "detail": "Puesto de playa inicial (3 mesas, 1 parrilla)"
+              "label": "1",
+              "detail": "Observa tu entorno"
             },
             {
-              "label": "Parcela 2",
-              "detail": "Restaurante del paseo marítimo (6 mesas, 2 parrillas, estación de hervido)"
+              "label": "2",
+              "detail": "No reveles tu entrada"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Hide ur Base and Steal Actualizaciones",
+          "description": "Sigue los anuncios en la página de Roblox.",
+          "href": "/community",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Visita la página del juego"
             },
             {
-              "label": "Parcela 3",
-              "detail": "Pabellón de mariscos de lujo en el muelle (automatización total y asientos VIP)"
+              "label": "2",
+              "detail": "Lee los anuncios"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Hide ur Base and Steal Comunidad",
+          "description": "Visita la página de Roblox para conocer al desarrollador.",
+          "href": "/community",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Juega en Roblox"
+            },
+            {
+              "label": "2",
+              "detail": "Sigue a Sutik x Tommy"
             }
           ]
         }
@@ -317,84 +249,88 @@
     },
     "faq": {
       "title": "Preguntas frecuentes",
-      "description": "Respuestas rápidas a las preguntas más frecuentes sobre My Seafood Stand.",
+      "description": "Respuestas sobre Hide ur Base and Steal.",
       "items": [
         {
-          "question": "¿Qué es My Seafood Stand?",
-          "answer": "My Seafood Stand es un RPG de combate gratuito en Roblox basado en el anime Bleach. Puedes elegir una de las mecánicas de juego: Shinigami (Soul Reaper), Quincy o Hollow, cada una con sistemas únicos de progresión, habilidades de combate y evolución. El juego cuenta con más de 130 habilidades, un nivel máximo de 100, combates contra jefes y una profunda personalización de builds."
+          "question": "¿Qué es Hide ur Base and Steal?",
+          "answer": "Es un juego de Roblox sobre ocultar bases, coleccionar mascotas y robar en otras bases."
         },
         {
-          "question": "¿Qué raza deberían elegir los principiantes?",
-          "answer": "Shinigami es la raza inicial más accesible, mientras que Hollow y Quincy ofrecen rutas de progresión más especializadas. Compara sus habilidades antes de decidirte."
+          "question": "¿Dónde puedo jugar a Hide ur Base and Steal?",
+          "answer": "Puedes jugar a Hide ur Base and Steal desde su página de Roblox."
         },
         {
-          "question": "¿Cuál es el nivel máximo actual?",
-          "answer": "El nivel máximo actual es 100, con más de 130 habilidades disponibles entre los árboles de habilidades y los sistemas de progresión de cada raza."
-        },
-        {
-          "question": "¿Dónde encuentro códigos activos?",
-          "answer": "Consulta la página de Códigos para encontrar códigos funcionales, recompensas, fechas de caducidad e instrucciones de canje."
-        },
-        {
-          "question": "¿Están actualizadas las guías de jefes?",
-          "answer": "Las páginas de jefes están estructuradas con notas de aparición, patrones de ataque, estrategias, tablas de botín y los siguientes pasos para tu progresión."
+          "question": "¿Hay códigos activos de Hide ur Base and Steal?",
+          "answer": "No hay códigos activos confirmados. Consulta los anuncios en la página de Roblox."
         }
       ]
     },
     "finalCta": {
-      "title": "¿Listo para dominar My Seafood Stand?",
-      "description": "Desde tus primeros pasos en Fort Adams hasta los combates contra jefes del juego final, nuestra wiki comunitaria te ofrece guías gratuitas y actualizadas.",
-      "primary": "Leer la guía para principiantes",
+      "title": "¿Listo para jugar a Hide ur Base and Steal?",
+      "description": "Lee las guías y comienza tu colección de mascotas.",
+      "primary": "Ver guías",
       "secondary": "Jugar en Roblox"
-    }
-  },
-  "bosses": {
-    "meta": {
-      "title": "Jefes — Guía completa y recorrido | Wiki de My Seafood Stand",
-      "description": "Guías completas de jefes para My Seafood Stand: todos los jefes desde Gelum en el tutorial hasta encuentros del juego final con estrategias, botines y tiempos de reaparición."
     },
-    "overviewTitle": "Resumen de jefes",
-    "overviewDescription": "Guías completas para cada encuentro de jefe en My Seafood Stand: 13 jefes desde el caballero Gelum del tutorial hasta encuentros del juego final como The Gelid Dweller y los desafíos de Gauntlet.",
-    "body": "Los jefes en My Seafood Stand funcionan como pruebas de habilidad e hitos de progresión. Algunos, como Gelum, te enseñan los fundamentos del combate durante el tutorial. Otros, como Shikai Spirit y Resurreccion Spirit, son encuentros del mundo interior directamente vinculados al desbloqueo de poder de tu raza. Los jefes de zona como Dragonfly, King Croc y Securis custodian el acceso a nuevas áreas y recompensas. Las incorporaciones recientes incluyen al Rogue Commander con sus esbirros, The Everfrosted de temática helada y cuatro nuevos jefes del juego final: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts y el Wandering Swordsman (Junichiro). Cada jefe tiene patrones de ataque distintivos y movimientos telegrafiados que debes aprender. Usa las siguientes guías para prepararte para cada combate.",
-    "guidesTitle": "Guías de jefes",
-    "readMore": "Leer más",
-    "new": "Nuevo",
-    "popular": "Popular"
+    "readFullGuide": "Leer la guía completa"
   },
   "shared": {
-    "wikiNavigation": "Navegación de la wiki",
+    "wikiNavigation": "Navegación del Wiki",
     "activeCodes": "Códigos activos",
     "updated": "Actualizado",
     "viewAllCodes": "Ver todos los códigos",
     "playOnRoblox": "Jugar en Roblox",
     "inThisSection": "En esta sección",
-    "tableOfContents": "Tabla de contenidos",
-    "nextSteps": "Próximos pasos",
+    "tableOfContents": "Índice de contenidos",
+    "nextSteps": "Siguientes pasos",
     "needHelp": "¿Necesitas ayuda?",
-    "relatedReading": "Lecturas relacionadas",
+    "relatedReading": "Lecturas recomendadas",
     "relatedGuides": "Guías relacionadas",
     "readMore": "Leer más",
-    "officialMedia": "Multimedia oficial",
+    "officialMedia": "Medios oficiales",
     "home": "Inicio",
-    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+    "noGuidesAvailable": "Por el momento no hay guías publicadas en esta sección."
   },
   "footer": {
-    "aboutTitle": "Wiki de My Seafood Stand",
-    "about": "My Seafood Stand Wiki es un portal de guías independiente creado por fans que cubre rutas de progresión, razas, jefes, builds y conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
+    "aboutTitle": "Sobre el Wiki",
+    "about": "Hide ur Base and Steal Wiki es tu recurso imprescindible para tácticas, diseño de bases seguras y códigos verificados en Roblox.",
     "quickLinks": "Enlaces rápidos",
     "guides": "Guías",
-    "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. No afiliado con Midnight Continent ni Roblox.",
-    "description": "RPG de combate gratuito inspirado en Bleach en Roblox. 3 razas, más de 130 habilidades, nivel máx. 100.",
-    "playGame": "Jugar a My Seafood Stand",
-    "officialDiscord": "Discord oficial",
-    "officialYoutube": "YouTube oficial",
-    "vvBuilder": "VV Builder (Planificador de habilidades)",
+    "legal": "Aviso legal",
+    "copyright": "Todos los derechos y marcas del juego pertenecen a sus respectivos creadores.",
+    "description": "La guía comunitaria de referencia para Hide ur Base and Steal.",
+    "playGame": "Jugar en Roblox",
+    "officialDiscord": "Página del juego",
+    "officialYoutube": "Demostración de juego",
+    "vvBuilder": "Planificador de bases",
     "beginnerGuide": "Guía para principiantes",
-    "raceGuides": "Guías de razas",
-    "bossGuides": "Guías de jefes",
-    "buildGuide": "Guía de builds",
+    "raceGuides": "Mecánicas y tácticas",
+    "bossGuides": "Objetos y herramientas",
+    "buildGuide": "Guía de construcción",
     "privacyPolicy": "Política de privacidad",
     "termsOfService": "Términos de servicio"
+  },
+  "guide": {
+    "overviewTitle": "Hide ur Base and Steal — Guía",
+    "overviewDescription": "Explora guías y artículos sobre Hide ur Base and Steal: Guía."
+  },
+  "mechanics": {
+    "overviewTitle": "Hide ur Base and Steal — Mecánicas",
+    "overviewDescription": "Explora guías y artículos sobre Hide ur Base and Steal: Mecánicas."
+  },
+  "maps": {
+    "overviewTitle": "Hide ur Base and Steal — Mapas",
+    "overviewDescription": "Explora guías y artículos sobre Hide ur Base and Steal: Mapas."
+  },
+  "items": {
+    "overviewTitle": "Hide ur Base and Steal — Objetos",
+    "overviewDescription": "Explora guías y artículos sobre Hide ur Base and Steal: Objetos."
+  },
+  "controls": {
+    "overviewTitle": "Hide ur Base and Steal — Controles",
+    "overviewDescription": "Explora guías y artículos sobre Hide ur Base and Steal: Controles."
+  },
+  "community": {
+    "overviewTitle": "Hide ur Base and Steal — Comunidad",
+    "overviewDescription": "Explora guías y artículos sobre Hide ur Base and Steal: Comunidad."
   }
 }
